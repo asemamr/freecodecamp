@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Asem Amr",
+	"description": "A project that can make your dreams comes true",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
