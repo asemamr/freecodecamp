@@ -8,7 +8,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "./views/index.html";
+      "dest": "./views/index.html"
     }
   ]
 }
